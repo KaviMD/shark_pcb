@@ -108,6 +108,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FEIKYGHH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Shark\Design Rule Check - Shark.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
